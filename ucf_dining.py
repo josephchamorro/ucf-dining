@@ -34,6 +34,19 @@ LOCATIONS = {
     "Knightros": "knightros",
 }
 
+STATION_NAMES = {
+    3060: "Grill",
+    3063: "Salad Bar",
+    3066: "Sides",
+    3069: "Feature",
+    3072: "International",
+    3075: "Entrees",
+    3078: "Deli",
+    3081: "Desserts",
+    3084: "Pizza",
+    3087: "Soup",
+}
+
 MEAL_PERIODS = {
     "breakfast": 10,   # UNKNOWN — needs verification
     "lunch": 25,       # CONFIRMED from your captures
@@ -191,7 +204,8 @@ def format_summary(parsed_menu, location_name, meal_name, target_date):
         return "\n".join(lines)
 
     for station_id, items in parsed_menu.items():
-        lines.append(f"\n**[Station {station_id}]**")
+        station_label = STATION_NAMES.get(station_id, f"Station {station_id}")
+lines.append(f"\n**{station_label}**")
         for item in items:
             cal_str = f"  {item['calories']} cal" if item['calories'] else ""
             lines.append(f"**• {item['name']}**{cal_str}")
@@ -240,7 +254,7 @@ def send_discord(summary, webhook_url):
     # Discord has a 2000 char limit per message — split if needed
     chunks = [summary[i:i+1900] for i in range(0, len(summary), 1900)]
     for chunk in chunks:
-        payload = {"content": f"```\n{chunk}\n```"}
+        payload = {"content": chunk}
         requests.post(webhook_url, json=payload, timeout=10)
 
 
