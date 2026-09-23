@@ -205,7 +205,7 @@ def format_summary(parsed_menu, location_name, meal_name, target_date):
 
     for station_id, items in parsed_menu.items():
         station_label = STATION_NAMES.get(station_id, f"Station {station_id}")
-lines.append(f"\n**{station_label}**")
+        lines.append(f"\n**{station_label}**")
         for item in items:
             cal_str = f"  {item['calories']} cal" if item['calories'] else ""
             lines.append(f"**• {item['name']}**{cal_str}")
