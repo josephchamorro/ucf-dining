@@ -274,9 +274,9 @@ def main():
     print("\n" + full_summary)
 
     # Optional: send to Discord
- discord_webhook = os.environ.get("DISCORD_WEBHOOK")
- if discord_webhook:
-     send_discord(full_summary, discord_webhook)
+    discord_webhook = os.environ.get("DISCORD_WEBHOOK")
+    if discord_webhook:
+        send_discord(full_summary, discord_webhook)
 
     return full_summary
 
