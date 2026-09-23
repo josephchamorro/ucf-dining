@@ -59,3 +59,174 @@ date,day_of_week,location,meal,station_id,item_name,calories,description,allerge
 2026-09-22,Tuesday,Knightros,lunch,3087,Minestrone Soup,,"Hearty Italian vegetable soup with beans, ditalini pasta, bacon & Parmesan in vegetable broth","Contains: Milk, Wheat"
 2026-09-22,Tuesday,Knightros,lunch,3081,Salted Caramel Mini Cupcake,181,"Fluffy Devil's food cupcake topped with rich chocolate, crunchy crushed pretzels & caramel drizzle",Complete allergen information is not available. Please contact the on-site manager for assistance.
 2026-09-22,Tuesday,Knightros,lunch,3081,Crispy Cereal Bar,157,Made with crisp rice cereal and gooey marshmallows - delightful texture and flavor in every bite,"Contains: Milk, Soy"
+2026-09-23,Wednesday,63 South,lunch,3105,Rotisserie-Style Chicken,527,"Slow roasted to juicy perfection bone-in chicken, coated with a savor blend of rotisserie seasoning",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Tossed Salad,28,"Crisp romaine lettuce tossed with fresh cucumber, carrot, onion and light Italian dressing",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Roasted Sweet Potatoes,97,Oven-roasted seasoned cubed sweet potatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Chocolate Chunk  Cookie,188,Allergen friendly baked chocolate   chip cookie,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Chicken & Pepper Stir-Fry,116,"Chicken, bell peppers, onion and water chestnuts stir-fried with garlic, ginger and sweet soy sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3108,Sauteed Kale & Brussels Sprouts,56,"Sautéed kale, Brussels sprouts and garlic with balsamic vinegar, crushed red pepper and chili powder",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Jasmine Rice,131,"Thai long grain rice with aromatic, nutty flavor",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3120,Sweet & Sour Plant-Based Chicken Stir Fry,153,"Plant-based chicken strips with onion, peppers, pineapple and sweet & sour sauce","Contains: Wheat, Soy"
+2026-09-23,Wednesday,63 South,lunch,3102,Swedish Meatballs,283,"Juicy beef and chicken meatballs simmered in a rich, creamy sauce, served over egg noodles","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3102,Zucchini & Tomatoes,47,Fresh zucchini with stewed tomatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3102,Herb Roasted Red Potatoes,101,"Roasted quartered red potatoes tossed with rosemary, thyme and marjoram",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3114,Buffalo Chicken Pizza,,,
+2026-09-23,Wednesday,63 South,lunch,3114,Classic Cheese Pizza,,House-made pizza dough topped with rich tomato sauce and a generous layer of melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3114,Pepperoni Pizza,,"House-made pizza dough topped with crispy pepperoni slices, rich tomato sauce and mozzarella cheese","Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3096,Grilled Black Bean Burger,257,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Hamburger,317,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Crispy Shoestring French Fries,194,"Thin-cut potatoes, deep-fried to golden brown",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, HAM, 63' SOUTH 10"" HALF",120,"Ham, cheddar, lettuce and tomato in a tortilla wrap",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, TURKEY, CLUB, 63' SOUTH, HALF",121,"Turkey, lettuce, tomato on a flour tortilla",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,273449,Tortilla Chips,282,House-made crunchy corn tortilla chips,Contains: 
+2026-09-23,Wednesday,63 South,lunch,273044,Made without gluten Penne,99,Fresh cooked al dente made-without-gluten tube pasta,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3117,Chicken Noodle Soup,61,"Sautéed carrots, celery and onion, with white meat chicken, wide egg noodles and chicken stock seasoned with thyme, bay leaf and black and white peppers",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3117,Broccoli Cheddar Soup,540,Creamy broccoli soup flavored with plant-based cheddar cheese,Contains: Soy
+2026-09-23,Wednesday,63 South,lunch,3111,Dulce de Leche Brownie,227,Combines the chocolatey goodness of a classic brownie and the caramel sweetness of dulce de leche,"Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Chocolate Chip Cookie,121,"Chocolate chip cookies, perfectly melted, creating gooey rich chocolate in every bite","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Snickerdoodle Cookie,126,"Buttery cookie offers a soft, chewy center and topped with a sweet cinnamon-sugar coating","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,293477,Orange Juice,56,Orange 100% juice,Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3066,Smoked BBQ Pulled Pork,251,Slow cooked smoked shredded pork,Contains: Wheat
+2026-09-23,Wednesday,Knightros,lunch,3066,Country Green Beans,65,Green beans sautéed with bacon and onions,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3066,Old-Fashioned Coleslaw,149,Green cabbage and carrots tossed in a traditional creamy dressing,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Potato Salad,142,Creamy potato salad,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Mashed Red Skin Potatoes,134,Creamy mashed red skin potatoes,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3075,Grilled Ancho-Lime Chicken,160,"Chicken thighs marinated in a mix of zesty lime juice, then grilled to perfection",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3075,Steamed Fresh Broccoli,19,Steamed fresh broccoli florets,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3075,Mac & Cheese,212,"Elbow pasta, cheddar and American cheeses with spices and hot pepper sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3069,Butternut & Black Bean Chili,84,Spicy butternut squash and black bean chili with quinoa,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3084,Classic Cheese Pizza,276,House-made pizza dough topped with rich tomato sauce and generous layer of melted mozzarella cheese,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Margherita Pizza,269,Fresh sliced plum tomatoes and shredded basil with mozzarella and a sprinkle of Italian seasoning,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Pepperoni Pizza,302,Generous layer of crispy pepperoni slices atop a house-made tomato sauce and melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3060,Grilled Black Bean Burger,160,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Hamburger,220,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Classic Grilled Cheese,336,"Gooey, melted American cheese inside two slices of crisp, buttery white bread","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3060,Crispy Shoestring French Fries,,Piping hot crispy shoestring French fries,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Crispy Sweet Chili Tofu Bao,214,"Fluffy bao filled with crispy tofu, scallions, roasted peanuts & sweet chili sauce","Contains: Peanuts, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3072,Gochujang Chicken Bao,230,"Fluffy bao filled with crispy chicken, pickled cucumbers, cilantro & gochujang sauce","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3072,Fried Garlic Yellow Rice,173,Yellow rice fried with garlic and scallions,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Kimchi Fried Rice,102,"Pan-fried brown rice with spicy kimchi, ginger, garlic and green onions",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3078,Turkey & American Sandwich,132,"Turkey, American, lettuce and tomato on whole wheat","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3078,Signature Chips,130,Crispy house-made potato chips seasoned with a blend of peppers and garlic,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Caesar Salad,86,"Crisp Romaine lettuce tossed with seasoned croutons, Parmesan and creamy Caesar dressing","Contains: Milk, Wheat, Fish"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cold Roasted Mushrooms,140,"A mixture of Portobello, sliced mushrooms and thyme",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Minted Peas,,Tender steamed green peas with a hint of mint,"Contains: Milk, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cumin Roasted Cauliflower,,Cumin Roasted Cauliflower,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Mexican Black Bean Salad,,"Spicy blend of black beans, tomatoes, cucumbers, red onions and jalapenos in a Tex-Mex vinaigrette",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3087,Chili Con Carne,178,"A Southwest spiced stew of ground beef, tomatoes, onion, green peppers, garlic and kidney beans",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3081,Cream Cheese Marbled Brownie,243,"Fudgy dessert bars are layered with a rich, tangy swirl of cream cheese filling","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,Knightros,lunch,3081,Sugar Cookie,117,Sugar cookies with a buttery flavor that’s perfectly balanced by just the right amount of sweetness,"Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3105,Rotisserie-Style Chicken,527,"Slow roasted to juicy perfection bone-in chicken, coated with a savor blend of rotisserie seasoning",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Tossed Salad,28,"Crisp romaine lettuce tossed with fresh cucumber, carrot, onion and light Italian dressing",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Roasted Sweet Potatoes,97,Oven-roasted seasoned cubed sweet potatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Chocolate Chunk  Cookie,188,Allergen friendly baked chocolate   chip cookie,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Chicken & Pepper Stir-Fry,116,"Chicken, bell peppers, onion and water chestnuts stir-fried with garlic, ginger and sweet soy sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3108,Sauteed Kale & Brussels Sprouts,56,"Sautéed kale, Brussels sprouts and garlic with balsamic vinegar, crushed red pepper and chili powder",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Jasmine Rice,131,"Thai long grain rice with aromatic, nutty flavor",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3120,Sweet & Sour Plant-Based Chicken Stir Fry,153,"Plant-based chicken strips with onion, peppers, pineapple and sweet & sour sauce","Contains: Wheat, Soy"
+2026-09-23,Wednesday,63 South,lunch,3102,Swedish Meatballs,283,"Juicy beef and chicken meatballs simmered in a rich, creamy sauce, served over egg noodles","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3102,Zucchini & Tomatoes,47,Fresh zucchini with stewed tomatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3102,Herb Roasted Red Potatoes,101,"Roasted quartered red potatoes tossed with rosemary, thyme and marjoram",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3114,Buffalo Chicken Pizza,,,
+2026-09-23,Wednesday,63 South,lunch,3114,Classic Cheese Pizza,,House-made pizza dough topped with rich tomato sauce and a generous layer of melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3114,Pepperoni Pizza,,"House-made pizza dough topped with crispy pepperoni slices, rich tomato sauce and mozzarella cheese","Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3096,Grilled Black Bean Burger,257,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Hamburger,317,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Crispy Shoestring French Fries,194,"Thin-cut potatoes, deep-fried to golden brown",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, HAM, 63' SOUTH 10"" HALF",120,"Ham, cheddar, lettuce and tomato in a tortilla wrap",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, TURKEY, CLUB, 63' SOUTH, HALF",121,"Turkey, lettuce, tomato on a flour tortilla",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,273449,Tortilla Chips,282,House-made crunchy corn tortilla chips,Contains: 
+2026-09-23,Wednesday,63 South,lunch,273044,Made without gluten Penne,99,Fresh cooked al dente made-without-gluten tube pasta,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3117,Chicken Noodle Soup,61,"Sautéed carrots, celery and onion, with white meat chicken, wide egg noodles and chicken stock seasoned with thyme, bay leaf and black and white peppers",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3117,Broccoli Cheddar Soup,540,Creamy broccoli soup flavored with plant-based cheddar cheese,Contains: Soy
+2026-09-23,Wednesday,63 South,lunch,3111,Dulce de Leche Brownie,227,Combines the chocolatey goodness of a classic brownie and the caramel sweetness of dulce de leche,"Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Chocolate Chip Cookie,121,"Chocolate chip cookies, perfectly melted, creating gooey rich chocolate in every bite","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Snickerdoodle Cookie,126,"Buttery cookie offers a soft, chewy center and topped with a sweet cinnamon-sugar coating","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,293477,Orange Juice,56,Orange 100% juice,Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3066,Smoked BBQ Pulled Pork,251,Slow cooked smoked shredded pork,Contains: Wheat
+2026-09-23,Wednesday,Knightros,lunch,3066,Country Green Beans,65,Green beans sautéed with bacon and onions,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3066,Old-Fashioned Coleslaw,149,Green cabbage and carrots tossed in a traditional creamy dressing,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Potato Salad,142,Creamy potato salad,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Mashed Red Skin Potatoes,134,Creamy mashed red skin potatoes,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3075,Grilled Ancho-Lime Chicken,160,"Chicken thighs marinated in a mix of zesty lime juice, then grilled to perfection",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3075,Steamed Fresh Broccoli,19,Steamed fresh broccoli florets,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3075,Mac & Cheese,212,"Elbow pasta, cheddar and American cheeses with spices and hot pepper sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3069,Butternut & Black Bean Chili,84,Spicy butternut squash and black bean chili with quinoa,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3084,Classic Cheese Pizza,276,House-made pizza dough topped with rich tomato sauce and generous layer of melted mozzarella cheese,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Margherita Pizza,269,Fresh sliced plum tomatoes and shredded basil with mozzarella and a sprinkle of Italian seasoning,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Pepperoni Pizza,302,Generous layer of crispy pepperoni slices atop a house-made tomato sauce and melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3060,Grilled Black Bean Burger,160,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Hamburger,220,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Classic Grilled Cheese,336,"Gooey, melted American cheese inside two slices of crisp, buttery white bread","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3060,Crispy Shoestring French Fries,,Piping hot crispy shoestring French fries,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Crispy Sweet Chili Tofu Bao,214,"Fluffy bao filled with crispy tofu, scallions, roasted peanuts & sweet chili sauce","Contains: Peanuts, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3072,Gochujang Chicken Bao,230,"Fluffy bao filled with crispy chicken, pickled cucumbers, cilantro & gochujang sauce","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3072,Fried Garlic Yellow Rice,173,Yellow rice fried with garlic and scallions,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Kimchi Fried Rice,102,"Pan-fried brown rice with spicy kimchi, ginger, garlic and green onions",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3078,Turkey & American Sandwich,132,"Turkey, American, lettuce and tomato on whole wheat","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3078,Signature Chips,130,Crispy house-made potato chips seasoned with a blend of peppers and garlic,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Caesar Salad,86,"Crisp Romaine lettuce tossed with seasoned croutons, Parmesan and creamy Caesar dressing","Contains: Milk, Wheat, Fish"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cold Roasted Mushrooms,140,"A mixture of Portobello, sliced mushrooms and thyme",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Minted Peas,,Tender steamed green peas with a hint of mint,"Contains: Milk, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cumin Roasted Cauliflower,,Cumin Roasted Cauliflower,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Mexican Black Bean Salad,,"Spicy blend of black beans, tomatoes, cucumbers, red onions and jalapenos in a Tex-Mex vinaigrette",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3087,Chili Con Carne,178,"A Southwest spiced stew of ground beef, tomatoes, onion, green peppers, garlic and kidney beans",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3081,Cream Cheese Marbled Brownie,243,"Fudgy dessert bars are layered with a rich, tangy swirl of cream cheese filling","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,Knightros,lunch,3081,Sugar Cookie,117,Sugar cookies with a buttery flavor that’s perfectly balanced by just the right amount of sweetness,"Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3105,Rotisserie-Style Chicken,527,"Slow roasted to juicy perfection bone-in chicken, coated with a savor blend of rotisserie seasoning",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Tossed Salad,28,"Crisp romaine lettuce tossed with fresh cucumber, carrot, onion and light Italian dressing",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Roasted Sweet Potatoes,97,Oven-roasted seasoned cubed sweet potatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3105,Chocolate Chunk  Cookie,188,Allergen friendly baked chocolate   chip cookie,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Chicken & Pepper Stir-Fry,116,"Chicken, bell peppers, onion and water chestnuts stir-fried with garlic, ginger and sweet soy sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3108,Sauteed Kale & Brussels Sprouts,56,"Sautéed kale, Brussels sprouts and garlic with balsamic vinegar, crushed red pepper and chili powder",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3108,Jasmine Rice,131,"Thai long grain rice with aromatic, nutty flavor",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3120,Sweet & Sour Plant-Based Chicken Stir Fry,153,"Plant-based chicken strips with onion, peppers, pineapple and sweet & sour sauce","Contains: Wheat, Soy"
+2026-09-23,Wednesday,63 South,lunch,3102,Swedish Meatballs,283,"Juicy beef and chicken meatballs simmered in a rich, creamy sauce, served over egg noodles","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3102,Zucchini & Tomatoes,47,Fresh zucchini with stewed tomatoes,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3102,Herb Roasted Red Potatoes,101,"Roasted quartered red potatoes tossed with rosemary, thyme and marjoram",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3114,Buffalo Chicken Pizza,,,
+2026-09-23,Wednesday,63 South,lunch,3114,Classic Cheese Pizza,,House-made pizza dough topped with rich tomato sauce and a generous layer of melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3114,Pepperoni Pizza,,"House-made pizza dough topped with crispy pepperoni slices, rich tomato sauce and mozzarella cheese","Contains: Milk, Wheat"
+2026-09-23,Wednesday,63 South,lunch,3096,Grilled Black Bean Burger,257,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Hamburger,317,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3096,Crispy Shoestring French Fries,194,"Thin-cut potatoes, deep-fried to golden brown",Contains: 
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, HAM, 63' SOUTH 10"" HALF",120,"Ham, cheddar, lettuce and tomato in a tortilla wrap",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,3090,"WRAP, TURKEY, CLUB, 63' SOUTH, HALF",121,"Turkey, lettuce, tomato on a flour tortilla",Contains: Wheat
+2026-09-23,Wednesday,63 South,lunch,273449,Tortilla Chips,282,House-made crunchy corn tortilla chips,Contains: 
+2026-09-23,Wednesday,63 South,lunch,273044,Made without gluten Penne,99,Fresh cooked al dente made-without-gluten tube pasta,Contains: 
+2026-09-23,Wednesday,63 South,lunch,3117,Chicken Noodle Soup,61,"Sautéed carrots, celery and onion, with white meat chicken, wide egg noodles and chicken stock seasoned with thyme, bay leaf and black and white peppers",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,63 South,lunch,3117,Broccoli Cheddar Soup,540,Creamy broccoli soup flavored with plant-based cheddar cheese,Contains: Soy
+2026-09-23,Wednesday,63 South,lunch,3111,Dulce de Leche Brownie,227,Combines the chocolatey goodness of a classic brownie and the caramel sweetness of dulce de leche,"Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Chocolate Chip Cookie,121,"Chocolate chip cookies, perfectly melted, creating gooey rich chocolate in every bite","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,3111,Snickerdoodle Cookie,126,"Buttery cookie offers a soft, chewy center and topped with a sweet cinnamon-sugar coating","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,63 South,lunch,293477,Orange Juice,56,Orange 100% juice,Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3066,Smoked BBQ Pulled Pork,251,Slow cooked smoked shredded pork,Contains: Wheat
+2026-09-23,Wednesday,Knightros,lunch,3066,Country Green Beans,65,Green beans sautéed with bacon and onions,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3066,Old-Fashioned Coleslaw,149,Green cabbage and carrots tossed in a traditional creamy dressing,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Potato Salad,142,Creamy potato salad,Contains: Eggs
+2026-09-23,Wednesday,Knightros,lunch,3066,Mashed Red Skin Potatoes,134,Creamy mashed red skin potatoes,Contains: Milk
+2026-09-23,Wednesday,Knightros,lunch,3075,Grilled Ancho-Lime Chicken,160,"Chicken thighs marinated in a mix of zesty lime juice, then grilled to perfection",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3075,Steamed Fresh Broccoli,19,Steamed fresh broccoli florets,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3075,Mac & Cheese,212,"Elbow pasta, cheddar and American cheeses with spices and hot pepper sauce",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3069,Butternut & Black Bean Chili,84,Spicy butternut squash and black bean chili with quinoa,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3084,Classic Cheese Pizza,276,House-made pizza dough topped with rich tomato sauce and generous layer of melted mozzarella cheese,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Margherita Pizza,269,Fresh sliced plum tomatoes and shredded basil with mozzarella and a sprinkle of Italian seasoning,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3084,Pepperoni Pizza,302,Generous layer of crispy pepperoni slices atop a house-made tomato sauce and melted mozzarella,"Contains: Milk, Wheat"
+2026-09-23,Wednesday,Knightros,lunch,3060,Grilled Black Bean Burger,160,"Gardenburger® black bean burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Hamburger,220,"Juicy all-beef burger served hot-off-the-grill on a fresh, soft bun","Contains: Wheat, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3060,Classic Grilled Cheese,336,"Gooey, melted American cheese inside two slices of crisp, buttery white bread","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3060,Crispy Shoestring French Fries,,Piping hot crispy shoestring French fries,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Crispy Sweet Chili Tofu Bao,214,"Fluffy bao filled with crispy tofu, scallions, roasted peanuts & sweet chili sauce","Contains: Peanuts, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3072,Gochujang Chicken Bao,230,"Fluffy bao filled with crispy chicken, pickled cucumbers, cilantro & gochujang sauce","Contains: Wheat, Soy, Sesame"
+2026-09-23,Wednesday,Knightros,lunch,3072,Fried Garlic Yellow Rice,173,Yellow rice fried with garlic and scallions,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3072,Kimchi Fried Rice,102,"Pan-fried brown rice with spicy kimchi, ginger, garlic and green onions",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3078,Turkey & American Sandwich,132,"Turkey, American, lettuce and tomato on whole wheat","Contains: Milk, Wheat, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3078,Signature Chips,130,Crispy house-made potato chips seasoned with a blend of peppers and garlic,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Caesar Salad,86,"Crisp Romaine lettuce tossed with seasoned croutons, Parmesan and creamy Caesar dressing","Contains: Milk, Wheat, Fish"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cold Roasted Mushrooms,140,"A mixture of Portobello, sliced mushrooms and thyme",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Minted Peas,,Tender steamed green peas with a hint of mint,"Contains: Milk, Soy"
+2026-09-23,Wednesday,Knightros,lunch,3063,Cumin Roasted Cauliflower,,Cumin Roasted Cauliflower,Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3063,Mexican Black Bean Salad,,"Spicy blend of black beans, tomatoes, cucumbers, red onions and jalapenos in a Tex-Mex vinaigrette",Contains: 
+2026-09-23,Wednesday,Knightros,lunch,3087,Chili Con Carne,178,"A Southwest spiced stew of ground beef, tomatoes, onion, green peppers, garlic and kidney beans",Complete allergen information is not available. Please contact the on-site manager for assistance.
+2026-09-23,Wednesday,Knightros,lunch,3081,Cream Cheese Marbled Brownie,243,"Fudgy dessert bars are layered with a rich, tangy swirl of cream cheese filling","Contains: Milk, Wheat, Soy, Eggs"
+2026-09-23,Wednesday,Knightros,lunch,3081,Sugar Cookie,117,Sugar cookies with a buttery flavor that’s perfectly balanced by just the right amount of sweetness,"Contains: Milk, Wheat, Soy, Eggs"
