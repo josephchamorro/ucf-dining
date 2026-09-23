@@ -49,12 +49,16 @@ STATION_NAMES = {
     # 63 South
     3102: "Breakfast Entrees",
     3111: "Bakery",
+    3105: "Entrees",
+    3108: "International",
+    3114: "Pizza",
+    3096: "Grill",
     3090: "Wraps",
     3120: "Specials",
     3117: "Soup",
     273449: "Tortilla Chips",
     273044: "Gluten-Free",
-    3084: "Pizza",
+    293477: "Beverages",
 }
 
 MEAL_PERIODS = {
