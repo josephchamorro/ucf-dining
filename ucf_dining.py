@@ -35,9 +35,9 @@ LOCATIONS = {
 }
 
 MEAL_PERIODS = {
-    "breakfast": 15,   # UNKNOWN — needs verification
-    "lunch": 16,       # CONFIRMED from your captures
-    "dinner": 17,      # UNKNOWN — needs verification
+    "breakfast": 10,   # UNKNOWN — needs verification
+    "lunch": 25,       # CONFIRMED from your captures
+    "dinner": 16,      # UNKNOWN — needs verification
 }
 
 
@@ -252,24 +252,19 @@ def main():
 
     # Only fetching lunch (mealPeriod 16) since that's confirmed
     # Add breakfast/dinner once mealPeriod IDs are confirmed
-    meal_name = "lunch"
-    meal_period = MEAL_PERIODS[meal_name]
-
-    for location_name, location_key in LOCATIONS.items():
-        print(f"Fetching {location_name} {meal_name}...")
-        try:
-            raw = fetch_menu(location_key, meal_period, target_date)
-            parsed = parse_menu(raw)
-            summary = format_summary(parsed, location_name, meal_name, target_date)
-            full_summary += summary + "\n"
-
-            # Save to CSV for pattern analysis
-            save_to_csv(parsed, location_name, meal_name, target_date)
-            print(f"  ✓ {sum(len(v) for v in parsed.values())} items found")
-
-        except Exception as e:
-            full_summary += f"\n  ❌ Error fetching {location_name}: {e}\n"
-            print(f"  ✗ Error: {e}")
+        for meal_name, meal_period in MEAL_PERIODS.items():
+        for location_name, location_key in LOCATIONS.items():
+            print(f"Fetching {location_name} {meal_name}...")
+            try:
+                raw = fetch_menu(location_key, meal_period, target_date)
+                parsed = parse_menu(raw)
+                summary = format_summary(parsed, location_name, meal_name, target_date)
+                full_summary += summary + "\n"
+                save_to_csv(parsed, location_name, meal_name, target_date)
+                print(f"  ✓ {sum(len(v) for v in parsed.values())} items found")
+            except Exception as e:
+                full_summary += f"\n  ❌ Error fetching {location_name}: {e}\n"
+                print(f"  ✗ Error: {e}")
 
     print("\n" + full_summary)
 
