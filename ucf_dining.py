@@ -180,30 +180,28 @@ def parse_menu(raw_data):
 
 
 def format_summary(parsed_menu, location_name, meal_name, target_date):
-    """Format the parsed menu into a readable text summary."""
     lines = []
-    lines.append(f"{'='*60}")
-    lines.append(f"  {location_name} — {meal_name.title()}")
-    lines.append(f"  {target_date}")
-    lines.append(f"{'='*60}")
+    lines.append(f"**{'='*40}**")
+    lines.append(f"**{location_name} — {meal_name.title()}**")
+    lines.append(f"*{target_date}*")
+    lines.append(f"**{'='*40}**")
 
     if not parsed_menu:
-        lines.append("  No menu data available.")
+        lines.append("No menu data available.")
         return "\n".join(lines)
 
     for station_id, items in parsed_menu.items():
-        lines.append(f"\n  [Station {station_id}]")
+        lines.append(f"\n**[Station {station_id}]**")
         for item in items:
             cal_str = f"  {item['calories']} cal" if item['calories'] else ""
-            lines.append(f"    • {item['name']}{cal_str}")
+            lines.append(f"**• {item['name']}**{cal_str}")
             if item.get("description"):
-                lines.append(f"      {item['description']}")
+                lines.append(f"  {item['description']}")
             if item.get("allergens") and item["allergens"] not in ("Contains: ", ""):
-                lines.append(f"      ⚠ {item['allergens']}")
+                lines.append(f"  ⚠ {item['allergens']}")
 
     lines.append("")
     return "\n".join(lines)
-
 
 def save_to_csv(parsed_menu, location_name, meal_name, target_date):
     """Append today's menu to a CSV history file for pattern analysis."""
@@ -250,9 +248,7 @@ def main():
     target_date = date.today().isoformat()
     full_summary = f"🍽️  UCF Dining — {datetime.today().strftime('%A, %B %d, %Y')}\n\n"
 
-    # Only fetching lunch (mealPeriod 16) since that's confirmed
-    # Add breakfast/dinner once mealPeriod IDs are confirmed
-        for meal_name, meal_period in MEAL_PERIODS.items():
+    for meal_name, meal_period in MEAL_PERIODS.items():
         for location_name, location_key in LOCATIONS.items():
             print(f"Fetching {location_name} {meal_name}...")
             try:
@@ -268,13 +264,11 @@ def main():
 
     print("\n" + full_summary)
 
-    # Optional: send to Discord
     discord_webhook = os.environ.get("DISCORD_WEBHOOK")
     if discord_webhook:
         send_discord(full_summary, discord_webhook)
 
     return full_summary
-
 
 if __name__ == "__main__":
     main()
