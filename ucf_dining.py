@@ -35,6 +35,7 @@ LOCATIONS = {
 }
 
 STATION_NAMES = {
+    # Knightros
     3060: "Grill",
     3063: "Salad Bar",
     3066: "Sides",
@@ -45,6 +46,15 @@ STATION_NAMES = {
     3081: "Desserts",
     3084: "Pizza",
     3087: "Soup",
+    # 63 South
+    3102: "Breakfast Entrees",
+    3111: "Bakery",
+    3090: "Wraps",
+    3120: "Specials",
+    3117: "Soup",
+    273449: "Tortilla Chips",
+    273044: "Gluten-Free",
+    3084: "Pizza",
 }
 
 MEAL_PERIODS = {
